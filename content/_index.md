@@ -95,7 +95,15 @@ sections:
           location: Bologna, Italy
           date_start: '2023-04-01'
           date_end: '2023-08-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: 'Assisted in the preparation of scientific publications for the Processing Citizenship project and in coordinating and organizing the concluding conference for the project, showcasing event management and logistical skills.'
+        - title: Technical Secretariat for 9th STS Italia Conference 
+          company: Società Italiana Di Studi Su Scienza E Tecnologia (STS Italia)
+          company_url: 'https://web.archive.org/web/20240108111011/https://eventi.unibo.it/stsitalia2023'
+          company_logo: sts_italia_logo
+          location: Bologna, Italy
+          date_start: '2022-09-05'
+          date_end: '2023-06-30'
+          description: 'Established and maintained the conference website, managed all communication aspects of the submission and review process for conference contributions, and acted as a central point of contact for authors and participants.'
         - title: In-service training at Text and Data Mining unit
           company: European Commission Joint Research Centre
           company_url: 'https://data.jrc.ec.europa.eu/collection/emm'
