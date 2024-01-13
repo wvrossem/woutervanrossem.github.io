@@ -1,0 +1,14 @@
+# Font style metadata
+name = "Classic"
+
+# Optional Google font URL
+google_fonts = "family=Caudex:wght@700&family=Roboto+Mono&family=Titillium+Web"
+
+
+# heading_font = "Caudex"
+
+# Font families
+heading_font = "Caudex"
+body_font = "Titillium Web"
+nav_font = "Caudex"
+mono_font = "Roboto Mono"
