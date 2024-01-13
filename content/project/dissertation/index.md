@@ -10,7 +10,7 @@ external_link: ''
 share: false
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 'Photo credit: pxhere'
   focal_point: Smart
 
 links:
@@ -26,6 +26,8 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ''
 ---
+
+> Supervisors: Prof. Annalisa Pelizza (Universoty of Bologna), Prof. Stefan Kuhlmann and Dr. Ir. Maurice van Keulen (University of Twente).
 
 This dissertation investigates the intricate interplay between data matching technologies, identification practices, and transnational commercialized security infrastructures, particularly within migration management and border control. The study was driven by a curiosity about the interplay between identity data matching and the 'blind spots' faced by authorities in identifying individuals, even when faced with incomplete data, aliases, and other uncertainties. The study sets out to answer the overarching question: How are practices and technologies for matching identity data in migration management and border control shaping and shaped by transnational commercialized security infrastructures?
 
