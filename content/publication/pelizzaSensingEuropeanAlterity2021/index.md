@@ -4,7 +4,7 @@ authors:
 - Annalisa Pelizza
 - admin
 date: "2021-08-24T00:00:00Z"
-doi: ""
+doi: "10.28938/9781912729111"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -41,7 +41,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Image credit: Mattering Press'
   focal_point: ""
   preview_only: false
 
