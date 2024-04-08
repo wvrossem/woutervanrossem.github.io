@@ -230,9 +230,9 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: talks
+    id: events
     content:
-      title: Recent & Upcoming Talks
+      title: Talks & Events
       filters:
         folders:
           - event

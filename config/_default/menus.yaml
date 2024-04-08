@@ -13,8 +13,8 @@ main:
   - name: Publications
     url: '#featured'
     weight: 40
-  - name: Talks
-    url: '#talks'
+  - name: Talks & Events
+    url: '#events'
     weight: 50
   - name: Microblog
     url: '/post'
