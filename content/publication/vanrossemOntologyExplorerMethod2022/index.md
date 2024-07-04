@@ -26,11 +26,17 @@ summary: This article introduces the methodology of the ‘Ontology Explorer’,
 tags:
 featured: true
 
-# links:
-# - name: ""
-#   url: ""
+links:
+  - icon_pack: fab
+    icon: github
+    name: Github source code
+    url: 'https://github.com/wvrossem/ontology-explorer'
+  - icon_pack: ai
+    icon: zenodo
+    name: Zenodo archive
+    url: 'https://zenodo.org/record/4899316'
 url_pdf: https://journals.sagepub.com/doi/10.1177/20539517221104087
-url_code: 'https://zenodo.org/record/4899316'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
