@@ -8,8 +8,8 @@
 appearance:
   theme_day: ocean  
   theme_night: minimal
-  font: custom
-  font_size: L
+  font: native
+  font_size: M
 
 # SEO
 
