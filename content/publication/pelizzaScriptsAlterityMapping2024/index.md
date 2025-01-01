@@ -3,7 +3,7 @@ title: "Scripts of alterity: mapping assumptions and limitations of the border s
 authors:
 - Annalisa Pelizza
 - admin
-date: "2023-08-30T00:00:00Z"
+date: "2024-07-01T00:00:00Z"
 doi: "10.1177/01622439231195955"
 
 # Schedule page publish date (NOT publication's date).
