@@ -80,13 +80,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PHD Candidate
+        - title: PhD Researcher
           company: University of Twente
           company_url: 'https://research.utwente.nl/en/persons/wouter-van-rossem'
           company_logo: 'university_of_twente_logo'
           location: Enschede, The Netherlands
           date_start: '2018-04-15'
-          date_end: ''
+          date_end: '2024-07-16'
           description: PhD research in the context of the European Research Council (ERC) funded project Processing Citizenship (grant agreement No 714463) and at UTwente faculty of Behavioural, Management and Social Sciences (BMS), section of Science, Technology, and Policy Studies (STePS).
         - title: Associate Researcher
           company: Alma Mater Studiorum – Università di Bologna

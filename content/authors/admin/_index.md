@@ -38,9 +38,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD candidate in Science, Technology, and Policy Studies
+    - course: PhD in Science, Technology, and Policy Studies
       institution: University of Twente
-      year: 2018 –
+      year: 2018 – 2024
     - course: Postgraduate programme in Science, Technology, and Policy Studies (STS)
       institution: Netherlands Graduate Research School of Science, Technology and Modern Culture (WTMC)
       year: 2022
@@ -145,7 +145,7 @@ social:
 highlight_name: true
 ---
 
-Wouter Van Rossem is a researcher on the intersection between social science and computer science. He previously worked on the European Research Council (ERC) funded project, Processing Citizenship, where he investigated how data infrastructures for population processing co-produce citizens, Europe, and territory. As a PhD student at the University of Twente in the Netherlands, he is currently finalizing his dissertation for graduation and actively working on publications stemming from these impactful projects.
+Wouter Van Rossem is a researcher on the intersection between social science and computer science. He previously worked on the European Research Council (ERC) funded project, Processing Citizenship, where he investigated how data infrastructures for population processing co-produce citizens, Europe, and territory. He completed his PhD at the University of Twente in the Netherlands and is still working on publications stemming from these impactful projects.
 
-In addition to his academic pursuits as a PhD student at the University of Twente in the Netherlands, he brings a diverse background as a software engineer, having worked in various companies and at the European Commission’s Joint Research Centre in Italy. His diverse background, spanning both theoretical and hands-on knowledge, reflects his keen interest in exploring the intricate interconnections between technology and society.
+In addition to his academic pursuits as a PhD at the University of Twente in the Netherlands, he brings a diverse background as a software engineer, having worked in various companies and at the European Commission’s Joint Research Centre in Italy. His diverse background, spanning both theoretical and hands-on knowledge, reflects his keen interest in exploring the intricate interconnections between technology and society.
 {style="text-align: justify;"}
