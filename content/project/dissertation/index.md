@@ -24,8 +24,8 @@ links:
     url: 'https://wvrossem.github.io/finding-blind-spots-dissertation/'
   - icon_pack: fas
     icon: graduation-cap
-    name: Public defence announcement
-    url: 'https://www.utwente.nl/en/education/tgs/currentcandidates/phd/calendar/2024/7/1604517/phd-defence-wouter-van-rossem-finding-blind-spots-investigating-identity-data-matching-in-transnational-commercialized-security-infrastructures-and-beyond'
+    name: Public defence
+    url: 'https://web.archive.org/web/20241109071107/https://www.utwente.nl/en/education/tgs/currentcandidates/phd/calendar/2024/7/1604517/phd-defence-wouter-van-rossem-finding-blind-spots-investigating-identity-data-matching-in-transnational-commercialized-security-infrastructures-and-beyond'
 url_code: ''
 url_pdf: ''
 url_slides: ''
