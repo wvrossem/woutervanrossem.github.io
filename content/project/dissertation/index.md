@@ -11,7 +11,7 @@ external_link: ''
 share: false
 
 image:
-  caption: 'Photo credit: pxhere'
+  caption: 'Dissertation book cover'
   focal_point: Smart
 
 links:
