@@ -1,7 +1,8 @@
 ---
 title: Processing Citizenship
 summary: From 2018-2023 I was part of the European Research Council (ERC) funded Processing Citizenship project investigating the digital registration of migrants as co-production of citizens, territory and Europe.
-tags:
+tags: 
+  - phd
 date: '2018-04-15T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

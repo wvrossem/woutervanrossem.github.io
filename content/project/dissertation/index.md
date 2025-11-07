@@ -1,7 +1,8 @@
 ---
 title: PhD dissertation
 summary: 'My dissertation investigates the interplay between data matching technologies, identification practices, and transnational commercialized security infrastructures, particularly within migration management and border control. The public defence took place on July 17, 2024.'
-tags:
+tags: 
+ - phd
 date: '2024-01-08T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
