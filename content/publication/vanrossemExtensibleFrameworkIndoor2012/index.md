@@ -3,7 +3,9 @@ title: "An extensible framework for indoor positioning on mobile devices"
 authors:
 - admin
 date: "2012-08-31T00:00:00Z"
-doi: "10.5281/zenodo.10889463"
+hugoblox:
+  ids:
+    doi: "10.5281/zenodo.10889463"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -28,14 +30,13 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://researchportal.vub.be/en/publications/an-extensible-framework-for-indoor-positioning-on-mobile-devices"
-url_code: 'https://github.com/wvrossem/FIPS'
-url_dataset: 'https://github.com/wvrossem/FIPS'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+links:
+  - type: pdf
+    url: "https://researchportal.vub.be/en/publications/an-extensible-framework-for-indoor-positioning-on-mobile-devices"
+  - type: code
+    url : 'https://github.com/wvrossem/FIPS'
+  - type: dataset
+    url: 'https://github.com/wvrossem/FIPS-Datastore'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

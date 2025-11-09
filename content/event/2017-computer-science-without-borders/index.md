@@ -29,18 +29,16 @@ image:
   focal_point: Right
 
 links: 
-  - icon_pack: fas
+  - icon_pack: hero
     icon: link
     name: Program
     url: 'http://web.archive.org/web/20240326050910/https://soft.vub.ac.be/~hrguez/cwzondergrenzen/'
-  - icon_pack: fas
+  - icon_pack: hero
     icon: newspaper
     name: Media
     url: 'http://web.archive.org/web/20240326052102/https://www.wtnschp.be/wetenschap/technologie/informatica/brusselse-jeugd-leert-coderen-tijdens-coderdojo-bxl/'
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: 'https://www.youtube.com/watch?v=9-f72NmJPPY'
+  - type: video
+    url: 'https://www.youtube.com/watch?v=9-f72NmJPPY'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

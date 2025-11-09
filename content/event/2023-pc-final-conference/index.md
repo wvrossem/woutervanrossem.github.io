@@ -7,7 +7,7 @@ event_url: "https://web.archive.org/web/20230706130036/https://eventi.unibo.it/p
 location: "University of Bologna, Bologna, Italy"
 
 summary: "For the end of the ERC Processing Citizenship project, we organised a conference in Bologna to share the results of our endeavours during two days of presentations, debates, dialogues, roundtables and break-outs. I organised this panel."
-abstract: ""
+abstract: "For the end of the ERC Processing Citizenship project, we organised a conference in Bologna to share the results of our endeavours during two days of presentations, debates, dialogues, roundtables and break-outs. I organised this panel."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

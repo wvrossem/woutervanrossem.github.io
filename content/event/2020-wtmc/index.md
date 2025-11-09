@@ -6,8 +6,8 @@ event_url: http://web.archive.org/web/20240108112430/https://www.wtmc.eu/wtmc-an
 
 location: Online
 
-summary: "Contributed to the PhD researchers' panel on 'Using methodology to build new briges'." 
-abstract: ''
+summary: "Contributed to the PhD researchers' panel on 'Using methodology to build new briges'."
+abstract: "Contributed to the PhD researchers' panel on 'Using methodology to build new briges'."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

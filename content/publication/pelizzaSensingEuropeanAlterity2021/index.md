@@ -4,7 +4,9 @@ authors:
 - Annalisa Pelizza
 - admin
 date: "2021-08-24T00:00:00Z"
-doi: "10.28938/9781912729111"
+hugoblox:
+  ids:
+    doi: "10.28938/9781912729111"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -29,14 +31,9 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.matteringpress.org/books/sensing-insecurity
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+links:
+  - type: pdf
+    url: https://www.matteringpress.org/books/sensing-insecurity
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
