@@ -4,7 +4,9 @@ authors:
 - Annalisa Pelizza
 - admin
 date: "2024-07-01T00:00:00Z"
-doi: "10.1177/01622439231195955"
+hugoblox:
+  ids:
+    doi: "10.1177/01622439231195955"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -30,14 +32,9 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1177/01622439231195955
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+links:
+  - type: pdf
+    url: https://journals.sagepub.com/doi/10.1177/01622439231195955
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

@@ -6,9 +6,8 @@ event_url: "http://web.archive.org/web/20240108105558/https://www.santannapisa.i
 
 location: "Scuola Superiore Sant'Anna, Pisa, Italy"
 
-summary: "Presented the Processing Citizenship project together with Dr.
-Chiara Loschi in 'Panel II - ERC Roundtable' at Scuola Superiore Sant'Anna, Pisa."
-abstract: ""
+summary: "Presented the Processing Citizenship project together with Dr. Chiara Loschi in 'Panel II - ERC Roundtable' at Scuola Superiore Sant'Anna, Pisa."
+abstract: "Presented the Processing Citizenship project together with Dr. Chiara Loschi in 'Panel II - ERC Roundtable' at Scuola Superiore Sant'Anna, Pisa."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

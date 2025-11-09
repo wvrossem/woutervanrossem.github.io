@@ -6,7 +6,13 @@ cms_exclude: true
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 2
+view: card
+
+fill_image: true
+columns: 2
+show_date: false
+show_read_time: false
+show_read_more: false
 
 # Optional header image (relative to `static/media/` folder).
 header:

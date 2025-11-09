@@ -4,7 +4,9 @@ authors:
 - admin
 - Annalisa Pelizza
 date: "2022-06-09T00:00:00Z"
-doi: "10.1177/20539517221104087"
+hugoblox:
+  ids:
+    doi: 10.1177/20539517221104087
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -27,22 +29,13 @@ tags:
 featured: true
 
 links:
-  - icon_pack: fab
-    icon: github
-    name: Github source code
-    url: 'https://github.com/wvrossem/ontology-explorer'
-  - icon_pack: ai
-    icon: zenodo
+  - type: pdf
+    url: https://journals.sagepub.com/doi/10.1177/20539517221104087
+  - type: code
+    url: https://github.com/wvrossem/ontology-explorer
+  - type: dataset
     name: Zenodo archive
     url: 'https://zenodo.org/record/4899316'
-url_pdf: https://journals.sagepub.com/doi/10.1177/20539517221104087
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

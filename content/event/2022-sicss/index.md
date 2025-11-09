@@ -7,7 +7,7 @@ event_url: http://web.archive.org/web/20220413101540/https://sicss.io/2022/bolog
 location: University of Bologna, Italy
 
 summary: Delivered a lecture together with Prof. Annalisa Pelizza at a summer school bringing together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science.
-abstract: ''
+abstract: 'Delivered a lecture together with Prof. Annalisa Pelizza at a summer school bringing together graduate students, postdoctoral researchers, and beginning faculty interested in computational social science.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

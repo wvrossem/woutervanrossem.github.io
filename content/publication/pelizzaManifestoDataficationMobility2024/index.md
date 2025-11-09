@@ -7,7 +7,9 @@ authors:
 - Paul Trauttmansdorff
 - admin
 date: "2025-03-18T00:00:00Z"
-doi: "10.17351/ests2023.2831"
+hugoblox:
+  ids:
+    doi: "10.17351/ests2023.2831"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -33,14 +35,9 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://doi.org/10.17351/ests2023.2831'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+links:
+  - type: pdf
+    url: 'https://estsjournal.org/index.php/ests/article/view/2831'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

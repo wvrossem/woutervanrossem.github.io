@@ -4,7 +4,9 @@ authors:
 - admin
 - Annalisa Pelizza
 date: "2025-10-28T00:00:00Z"
-doi: "10.1177/20539517251388349"
+hugoblox:
+  ids:
+    doi: "10.1177/20539517251388349"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -24,20 +26,14 @@ abstract: This paper investigates the technopolitics of identification across in
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://journals.sagepub.com/doi/10.1177/20539517251388349'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+links:
+  - type: pdf
+    url: 'https://journals.sagepub.com/doi/10.1177/20539517251388349'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

@@ -1,8 +1,7 @@
 ---
 title: PhD dissertation
 summary: 'My dissertation investigates the interplay between data matching technologies, identification practices, and transnational commercialized security infrastructures, particularly within migration management and border control. The public defence took place on July 17, 2024.'
-tags: 
- - phd
+tags:
 date: '2024-01-08T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -15,16 +14,13 @@ image:
   focal_point: Smart
 
 links:
-  - icon_pack: ai
-    icon: open-access
+  - icon: academicons/open-access
     name: Open access book PDF
     url: 'https://doi.org/10.3990/1.9789036561778'
-  - icon_pack: ai
-    icon: open-access
+  - icon: academicons/open-access
     name: Online gitbook
     url: 'https://wvrossem.github.io/finding-blind-spots-dissertation/'
-  - icon_pack: fas
-    icon: graduation-cap
+  - icon: hero/academic-cap
     name: Public defence
     url: 'https://web.archive.org/web/20241109071107/https://www.utwente.nl/en/education/tgs/currentcandidates/phd/calendar/2024/7/1604517/phd-defence-wouter-van-rossem-finding-blind-spots-investigating-identity-data-matching-in-transnational-commercialized-security-infrastructures-and-beyond'
 url_code: ''
