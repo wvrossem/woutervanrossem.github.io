@@ -28,10 +28,8 @@ image:
   caption: 'Image credit: EASST'
   focal_point: Left
 links:
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+  - name: Blog post
+    url: https://web.archive.org/web/20230528183539/https://processingcitizenship.eu/five-europeans-in-madrid-our-easst-conference-and-travel-diary/
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

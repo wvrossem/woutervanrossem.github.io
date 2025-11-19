@@ -36,6 +36,8 @@ links:
   - type: dataset
     name: Zenodo archive
     url: 'https://zenodo.org/record/4899316'
+  - name: Blog post
+    link: https://web.archive.org/web/20221223121034/https://processingcitizenship.eu/new-publication-the-ontology-explorer-a-method-to-make-visible-data-infrastructures-for-population-management/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

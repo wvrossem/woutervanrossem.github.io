@@ -29,10 +29,8 @@ image:
   focal_point: Right
 
 links:
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+  - name: Blog post
+    url: https://web.archive.org/web/20201230030106/https://processingcitizenship.eu/processing-citizenship-at-data-power-global-in-securities-conference/
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

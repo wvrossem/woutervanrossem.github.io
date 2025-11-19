@@ -34,6 +34,8 @@ image:
   focal_point: Right
 
 links:
+  - name: Blog post
+    url: https://web.archive.org/web/20221225104408/https://processingcitizenship.eu/processing-citizenship-at-easst4s-conference/
 url_code: ''
 url_pdf: ''
 url_slides: ''

@@ -32,10 +32,8 @@ links:
     icon: link
     name: Program
     url: 'https://web.archive.org/web/20230706130113/https://eventi.unibo.it/processingcitizenship/program'
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+  - name: Blog post
+    url: https://web.archive.org/web/20231128223004/https://processingcitizenship.eu/the-processing-citizenship-final-conference-a-report/
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

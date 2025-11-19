@@ -29,10 +29,9 @@ image:
   focal_point: Right
 
 links:
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+  - name: Announcement
+    url: https://web.archive.org/web/20221225104142/https://processingcitizenship.eu/online-steps-colloquium/
+
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

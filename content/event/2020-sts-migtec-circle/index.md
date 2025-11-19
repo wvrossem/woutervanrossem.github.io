@@ -29,10 +29,8 @@ image:
   focal_point: Right
 
 links:
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+  - name: Announcement
+    url: https://web.archive.org/web/20220815031957/https://processingcitizenship.eu/presentation-at-sts-migtec-circle/
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
