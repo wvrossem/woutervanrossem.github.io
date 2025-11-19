@@ -36,10 +36,9 @@ image:
 links:
   - name: Blog post
     url: https://web.archive.org/web/20221225104408/https://processingcitizenship.eu/processing-citizenship-at-easst4s-conference/
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+  - type: pdf
+    name: Program
+    url: print-program-abstracts-200825.pdf
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

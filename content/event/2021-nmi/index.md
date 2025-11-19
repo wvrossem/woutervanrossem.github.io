@@ -33,10 +33,12 @@ image:
   focal_point: Left
 
 links:
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+  - type: pdf
+    name: Brochure
+    url: CFC_NMI2021_extended.pdf
+  - type: pdf
+    name: Program
+    url: NMI2021-Full-Programme.pdf
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

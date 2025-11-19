@@ -31,6 +31,9 @@ image:
 links:
   - name: Blog post
     url: https://web.archive.org/web/20201230030106/https://processingcitizenship.eu/processing-citizenship-at-data-power-global-in-securities-conference/
+  - name: Book of abstracts
+    type: pdf
+    url: DATA-POWER_BookOfAbstracts_bySession_Authors.pdf
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

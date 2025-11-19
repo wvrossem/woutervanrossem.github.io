@@ -34,6 +34,9 @@ links:
     url: 'https://web.archive.org/web/20230706130113/https://eventi.unibo.it/processingcitizenship/program'
   - name: Blog post
     url: https://web.archive.org/web/20231128223004/https://processingcitizenship.eu/the-processing-citizenship-final-conference-a-report/
+  - type: pdf
+    name: Abstracts
+    url: abstracts-pc-conference-panel-2.pdf
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

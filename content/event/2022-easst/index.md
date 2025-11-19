@@ -30,6 +30,9 @@ image:
 links:
   - name: Blog post
     url: https://web.archive.org/web/20230528183539/https://processingcitizenship.eu/five-europeans-in-madrid-our-easst-conference-and-travel-diary/
+  - type: pdf
+    name: Program
+    url: EASST_2022_Madrid_Program.pdf
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

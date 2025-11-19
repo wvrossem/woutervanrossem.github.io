@@ -29,10 +29,9 @@ image:
   focal_point: Left
 
 links:
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+  - type: pdf
+    name: Program
+    url: STS_Italia_CONF_FinalProgramme.pdf
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
